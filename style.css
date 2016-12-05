@@ -1,0 +1,13 @@
+li{
+color:red;
+}
+
+li:nth-child(odd) { color:green; }
+footer{
+text-align:center;
+color:red;
+background:black;
+font-size:40px;
+}
+
+
